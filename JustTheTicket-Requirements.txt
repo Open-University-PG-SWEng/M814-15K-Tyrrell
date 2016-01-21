@@ -5,4 +5,14 @@ Rationale:
 Originator:
 Comments: [M814-ModuleChair] Copy this template below to add new requirements.
 
+REQ-ID: 001
+Description: The system shall provide a unique identifier for each ticket sold.
+Type: Functional
+Rationale: When a ticket is returned, the customer has to provide an identifier which unambiguously identifies a ticket.
+Originator: Business developer
 
+REQ-ID: 002
+Description: The system shall be able to locate the owner of any sold ticket.
+Type: Functional
+Rationale: When a ticket is returned, the system has to check if the customer returning the ticket actually owns the ticket.
+Originator: Business developer
