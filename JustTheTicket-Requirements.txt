@@ -21,13 +21,13 @@ REQ-ID: 003
 Description: Returned tickets shall be released in a controlled manner once per day by a manual process.
 Type: Functional
 Rationale: Examination of ticket returns is necessary to protect from fraud.
-Originator: Geoff Riley
+Originator: Edna Everage — Domestic Ticket Sales
 
 REQ-ID: 004
 Description: The system shall not issue a ticket if an event has reached capacuty.
 Type: Functional
 Rationale: When an event has sold out no more tickets can be sold (unless tickets are returned first).
-Originator: Geoff Riley
+Originator: Edna Everage — Domestic Ticket Sales
 
 REQ-ID: 005
 Description: The system shall provide a unique identifier for each registered customer.
