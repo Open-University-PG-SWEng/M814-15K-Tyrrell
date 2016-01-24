@@ -24,7 +24,7 @@ Rationale: Examination of ticket returns is necessary to protect from fraud.
 Originator: Edna Everage — Domestic Ticket Sales
 
 REQ-ID: 004
-Description: The system shall not issue a ticket if an event has reached capacuty.
+Description: The system shall not issue a ticket if an event has reached capacity.
 Type: Functional
 Rationale: When an event has sold out no more tickets can be sold (unless tickets are returned first).
 Originator: Edna Everage — Domestic Ticket Sales
