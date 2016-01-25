@@ -33,10 +33,10 @@ REQ-ID: 005
 Description: The system shall provide a unique identifier for each registered customer.
 Type: Functional
 Rationale: Clients and their preferences need to be tracked in order to facilitate suggested events in the future.
-Originator: Žiga Vurkeljc
+Originator: Leslie Patterson - Business developer
 
 REQ-ID: 006
 Description: The system shall record every transaction a given customer makes.
 Type: Functional
 Rationale: A full purchase/refund history is necessary in order to facilitate customer management and future purchase suggestions.
-Originator: Žiga Vurkeljc
+Originator: Leslie Patterson - Business developer
