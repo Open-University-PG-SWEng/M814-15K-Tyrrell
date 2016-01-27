@@ -40,3 +40,9 @@ Description: The system shall record every transaction a given customer makes.
 Type: Functional
 Rationale: A full purchase/refund history is necessary in order to facilitate customer management and future purchase suggestions.
 Originator: Leslie Patterson - Business developer
+
+REQ-ID: 007
+Description: When ticket(s) are returned, the system shall capture the reason for the return
+Type: Functional
+Rationale: As part of the fraud prevention process, the reasons for ticket returns will be analyzed.
+Originator: Edna Everage — Domestic Ticket Sales
