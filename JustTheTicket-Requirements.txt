@@ -1,4 +1,4 @@
-REQ-ID:
+﻿REQ-ID:
 Description:
 Type:
 Rationale:
@@ -52,3 +52,15 @@ Description: The system shall require the customer to authenticate themselves wh
 Type: Functional
 Rationale: As part of the fraud prevention process, security measures should be in place to prevent tickets being returned by someone other than the customer who purchased them
 Originator: Edna Everage — Domestic Ticket Sales
+
+REQ-ID: 009
+Description: The system shall check that the returned tickets belong to the customer making the request.
+Type: Functional
+Rationale: It must be ensured that the provided identifiers of the tickets to be returned really belong to the identified user.
+Originator: Barry McKenzie - Lead business analyst
+
+REQ-ID: 010
+Description: The system shall notify the user that the tickets have been revoked and a refund made.
+Type: Functional
+Rationale: The user must be assured of the successful revoking of the tickets and the refund made.
+Originator: Barry McKenzie - Lead business analyst
