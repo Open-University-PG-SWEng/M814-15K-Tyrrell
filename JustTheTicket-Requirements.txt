@@ -46,3 +46,9 @@ Description: When ticket(s) are returned, the system shall capture the reason fo
 Type: Functional
 Rationale: As part of the fraud prevention process, the reasons for ticket returns will be analyzed.
 Originator: Edna Everage — Domestic Ticket Sales
+
+REQ-ID: 008
+Description: The system shall require the customer to authenticate themselves when returning a ticket
+Type: Functional
+Rationale: As part of the fraud prevention process, security measures should be in place to prevent tickets being returned by someone other than the customer who purchased them
+Originator: Edna Everage — Domestic Ticket Sales
