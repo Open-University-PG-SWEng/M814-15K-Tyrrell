@@ -64,17 +64,3 @@ Description: The system shall notify the user that the tickets have been revoked
 Type: Functional
 Rationale: The user must be assured of the successful revoking of the tickets and the refund made.
 Originator: Barry McKenzie - Lead business analyst
-
-REQ-ID: 011
-Description: The system shall update records to show previous ownership has been revoked. 
-Type: Functional
-Rationale:  To make sure that the original owner is unable to claim ownership of revoked tickets.
-Originator: Edna Everage - Domestic Ticket Sales
-Comments: 
-
-REQ-ID: 012
-Description: The system shall be able to assign a replacement identifier to a ticket.
-Type: Functional
-Rationale: To facilitate the transferal of ownership from the previous owner to the new owner.
-Originator: Edna Everage - Domestic Ticket Sales
-Comments: 
