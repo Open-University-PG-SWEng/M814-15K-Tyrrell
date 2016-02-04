@@ -77,3 +77,15 @@ Type: Functional, business requirement
 Rationale: The customer wants to have his money back
 Originator: Lesslie Patterson, Business Developer
 
+REQ-ID: 013
+Description: The system shall store all returned tickets within 24h.
+Type: Function, business requirement
+Rationale: Unallocated tickets need to be reallocated on a daily basis.
+Orginator: Edna Everage
+
+REQ-ID: 014
+Description: The system shall send the returned tickets of the last 24h to the reallocation system every 24h. 
+Type: Function, business requirement
+Rationale: The reallocation program needs to know the return tickets. 
+Orginator: Barry McKenzie
+
