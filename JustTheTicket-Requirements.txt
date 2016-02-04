@@ -64,3 +64,16 @@ Description: The system shall notify the user that the tickets have been revoked
 Type: Functional
 Rationale: The user must be assured of the successful revoking of the tickets and the refund made.
 Originator: Barry McKenzie - Lead business analyst
+
+REQ-ID: 011
+Description: The system shall display all valid tickets for upcoming events from the identified customer
+Type: Functional, technological requirement
+Rationale: The customer need to be able to select the tickets he wants to return
+Originator: Lesslie Patterson, Business Developer
+
+REQ-ID: 012
+Description: The system shall send refund information to the credit card company
+Type: Functional, business requirement
+Rationale: The customer wants to have his money back
+Originator: Lesslie Patterson, Business Developer
+
