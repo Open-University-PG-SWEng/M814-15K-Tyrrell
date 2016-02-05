@@ -99,3 +99,19 @@ Description:The product shall display terms & conditions and cancellation policy
 Type: Functional
 Rationale:to be able to state contractual agreement between customer and interested stakeholders  before proceeding with the transaction in order to avoid fraud
 Originator:Edna Everage
+
+REQ-ID: 017
+Description:The system shall update records to show previous ownership has been revoked.
+Type:Functional
+Rationale: To make sure previous owner is unable to claim ownership of revoked tickets.
+Originator: Edna Everage
+REQ-ID:018
+Description: The system shall be able to assign a replacement identifier to a ticket.
+Type: Functional
+Rationale: To facilitate the transferal of ownership from previous owner to the new owner.
+Originator: Edna Everage
+
+
+
+
+
