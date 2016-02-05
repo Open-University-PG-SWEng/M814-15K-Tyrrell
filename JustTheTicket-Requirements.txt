@@ -1,4 +1,4 @@
-﻿REQ-ID:
+REQ-ID:
 Description:
 Type:
 Rationale:
@@ -112,6 +112,15 @@ Rationale: To facilitate the transferal of ownership from previous owner to the 
 Originator: Edna Everage
 
 
+REQ-ID: 019
+Description: The system shall fairly allocate tickets
+Type: Functional, business requirement
+Rationale: To be fair and seen as fair  
+Originator: Leslie Patterson - Business Developer
 
-
+REQ-ID: 020
+Description: The system shall handle many tens of thousands of connections per hour
+Type: Functional
+Rationale: To ensure that customers can access the system and that the games do not suffer from the negative publicity associated with failure to access the ticketing system. 
+Originator: Leslie Patterson
 
