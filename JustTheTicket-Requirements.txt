@@ -89,3 +89,13 @@ Type: Function, business requirement
 Rationale: The reallocation program needs to know the return tickets. 
 Orginator: Barry McKenzie
 
+REQ-ID:015
+Description:The product shall send confirmation of cancellation with a reference number 
+Type: Functional
+Rationale:to be able to give the customers a proof of his/her transaction for future references
+Originator: Edna Everage
+REQ-ID:016
+Description:The product shall display terms & conditions and cancellation policy
+Type: Functional
+Rationale:to be able to state contractual agreement between customer and interested stakeholders  before proceeding with the transaction in order to avoid fraud
+Originator:Edna Everage
