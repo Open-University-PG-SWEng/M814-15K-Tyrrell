@@ -124,3 +124,15 @@ Type: Functional
 Rationale: To ensure that customers can access the system and that the games do not suffer from the negative publicity associated with failure to access the ticketing system. 
 Originator: Leslie Patterson
 
+REQ-ID: 021
+Description: The product shall refund the customer the amount originally paid for the tickets returned.
+Type: Functional.
+Rationale: Ticket prices may change and the customer must not make a profit or loss on their return.
+Originator: Anthony Albertyn
+
+REQ-ID: 022
+Description: The product shall provide the customer with confirmation that the refund transaction was successful.
+Type: Functional
+Rationale: The customer needs feedback, for peace if mind, that their refund transaction was successful. 
+Originator: Anthony Albertyn
+
