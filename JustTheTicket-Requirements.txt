@@ -142,4 +142,15 @@ Type: Functional.
 Rationale: To ensure it is the same customer returning tickets.
 Originator: Leslie Patterson
 
+REQ-ID:024
+Description: The product shall allow the customer to enter a reason for ticket return(s).
+Type: Functional.
+Rationale: To understand reasons for ticket returns to detect emerging patterns/fraud.
+Originator: Edna Everage
+
+
+
+
+
+
 
