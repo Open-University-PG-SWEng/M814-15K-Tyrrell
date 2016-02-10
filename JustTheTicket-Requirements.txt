@@ -140,6 +140,6 @@ REQ-ID:023
 Description: The product shall check that the customer returning ticket(s) was the original purchaser.
 Type: Functional.
 Rationale: To ensure it is the same customer returning tickets.
-Originator: Edna Everage
+Originator: Leslie Patterson
 
 
