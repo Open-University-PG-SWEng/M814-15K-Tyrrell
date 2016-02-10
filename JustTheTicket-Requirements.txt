@@ -1,4 +1,4 @@
-REQ-ID:
+﻿REQ-ID:
 Description:
 Type:
 Rationale:
@@ -135,4 +135,11 @@ Description: The product shall provide the customer with confirmation that the r
 Type: Functional
 Rationale: The customer needs feedback, for peace if mind, that their refund transaction was successful. 
 Originator: Anthony Albertyn
+
+REQ-ID:023
+Description: The product shall check that the customer returning ticket(s) was the original purchaser.
+Type: Functional.
+Rationale: To ensure it is the same customer returning tickets.
+Originator: Edna Everage
+
 
