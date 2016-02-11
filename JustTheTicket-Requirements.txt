@@ -105,6 +105,7 @@ Description:The system shall update records to show previous ownership has been 
 Type:Functional
 Rationale: To make sure previous owner is unable to claim ownership of revoked tickets.
 Originator: Edna Everage
+
 REQ-ID:018
 Description: The system shall be able to assign a replacement identifier to a ticket.
 Type: Functional
