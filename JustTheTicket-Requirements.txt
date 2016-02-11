@@ -160,3 +160,15 @@ Description: The product shall allow the management to mass modify the ticket pr
 Type: Functional
 Rationale: To allow the management the flexibility to achieve a balance between sales, incomes and accessibility 
 Originator: Edna Everage
+
+REQ-ID:027
+Description: The customer shall only return tickets he originally has bought
+Type: Functional
+Rationale: The fee paid by the customer can only be reversed to the credit card originally used to prevent fraud. 
+Originator:  Barry McKenzie
+
+REQ-ID:028
+Description: The customer can also return partly tickets. For example a customer has bought 5 tickets of one event and should be able to return any quantity. 
+Type: Functional
+Rationale: The returned ticket Use Case is introduced to prevent fraud. In case a group wanted to join an event but one participant is sick the ticket should be returned. This would reduce the sale of ticket at the games and would prevent unwanted high ticket prices.
+Originator: Barry McKenzie
