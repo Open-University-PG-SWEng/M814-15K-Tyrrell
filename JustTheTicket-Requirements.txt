@@ -149,9 +149,14 @@ Type: Functional.
 Rationale: To understand reasons for ticket returns to detect emerging patterns/fraud.
 Originator: Edna Everage
 
+REQ-ID:025
+Description: The product shall notify management in case the daily sales exceed in more than 5% the daily revenue targets per venue
+Type: Functional
+Rationale: To ensure that the management is informed about the risk of exceeding its target
+Originator: Edna Everage
 
-
-
-
-
-
+REQ-ID:026
+Description: The product shall allow the management to mass modify the ticket prices
+Type: Functional
+Rationale: To allow the management the flexibility to achieve a balance between sales, incomes and accessibility 
+Originator: Edna Everage
