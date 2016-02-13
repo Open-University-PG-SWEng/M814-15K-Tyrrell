@@ -22,12 +22,6 @@ Type: Functional
 Rationale: It must be ensured that the provided identifiers of the tickets to be returned really belong to the identified user.
 Originator: Barry McKenzie - Lead business analyst
 
-REQ-ID: 010
-Description: The system shall notify the user that the tickets have been revoked and a refund made.
-Type: Functional
-Rationale: The user must be assured of the successful revoking of the tickets and the refund made.
-Originator: Barry McKenzie - Lead business analyst
-
 REQ-ID: 011
 Description: The system shall display all valid tickets for upcoming events from the identified customer
 Type: Functional, technological requirement
