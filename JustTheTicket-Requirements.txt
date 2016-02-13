@@ -52,12 +52,6 @@ Type: Functional
 Rationale:to be able to state contractual agreement between customer and interested stakeholders  before proceeding with the transaction in order to avoid fraud
 Originator:Edna Everage
 
-REQ-ID: 017
-Description:The system shall update records to show previous ownership has been revoked.
-Type:Functional
-Rationale: To make sure previous owner is unable to claim ownership of revoked tickets.
-Originator: Edna Everage
-
 REQ-ID: 022
 Description: The product shall provide the customer with confirmation that the refund transaction was successful.
 Type: Functional
