@@ -46,12 +46,6 @@ Type: Function, business requirement
 Rationale: Unallocated tickets need to be reallocated on a daily basis.
 Orginator: Edna Everage
 
-REQ-ID:015
-Description:The product shall send confirmation of cancellation with a reference number 
-Type: Functional
-Rationale:to be able to give the customers a proof of his/her transaction for future references
-Originator: Edna Everage
-
 REQ-ID:016
 Description:The product shall display terms & conditions and cancellation policy
 Type: Functional
@@ -63,12 +57,6 @@ Description:The system shall update records to show previous ownership has been 
 Type:Functional
 Rationale: To make sure previous owner is unable to claim ownership of revoked tickets.
 Originator: Edna Everage
-
-REQ-ID: 022
-Description: The product shall provide the customer with confirmation that the refund transaction was successful.
-Type: Functional
-Rationale: The customer needs feedback, for peace if mind, that their refund transaction was successful. 
-Originator: Anthony Albertyn
 
 REQ-ID:028
 Description: The customer can also return partly tickets. For example a customer has bought 5 tickets of one event and should be able to return any quantity. 
