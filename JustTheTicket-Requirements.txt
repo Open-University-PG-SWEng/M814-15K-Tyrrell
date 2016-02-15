@@ -1,4 +1,4 @@
-﻿REQ-ID:
+REQ-ID:
 Description:
 Type:
 Rationale:
@@ -172,3 +172,15 @@ Description: The customer can also return partly tickets. For example a customer
 Type: Functional
 Rationale: The returned ticket Use Case is introduced to prevent fraud. In case a group wanted to join an event but one participant is sick the ticket should be returned. This would reduce the sale of ticket at the games and would prevent unwanted high ticket prices.
 Originator: Barry McKenzie
+
+REQ-ID:029
+Description: Identify and validate the sales transaction(s) they wish to return.
+Type: Functional
+Rationale: The original Sales ticket transaction data needs to be captured.
+Originator: Steven Lewis
+
+REQ-ID:030
+Description: Change the status of their sales ticket(s) allocation to ‘pending reallocation’.
+Type:Functional
+Rationale: The Pending Returns status will allow the committee to identify and analyse the sales/return metrics before prioritising reallocation.
+Originator: Steven Lewis
