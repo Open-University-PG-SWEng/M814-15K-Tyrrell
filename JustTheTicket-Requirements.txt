@@ -173,6 +173,7 @@ Type: Functional
 Rationale: The returned ticket Use Case is introduced to prevent fraud. In case a group wanted to join an event but one participant is sick the ticket should be returned. This would reduce the sale of ticket at the games and would prevent unwanted high ticket prices.
 Originator: Barry McKenzie
 
+—DELETED—
 REQ-ID:029
 Description: Identify and validate the sales transaction(s) they wish to return.
 Type: Functional
