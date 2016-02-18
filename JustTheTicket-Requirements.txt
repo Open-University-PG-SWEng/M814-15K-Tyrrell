@@ -1,10 +1,4 @@
-﻿REQ-ID: 002
-Description: The system shall be able to locate the owner of any sold ticket.
-Type: Functional, business requirement
-Rationale: When a ticket is returned, the system has to check if the customer returning the ticket actually owns the ticket.
-Originator: Leslie Patterson - Business developer
-
-REQ-ID: 006
+﻿REQ-ID: 006
 Description: The system shall record every transaction a given customer makes.
 Type: Functional
 Rationale: A full purchase/refund history is necessary in order to facilitate customer management and future purchase suggestions.
@@ -52,41 +46,11 @@ Type: Function, business requirement
 Rationale: Unallocated tickets need to be reallocated on a daily basis.
 Orginator: Edna Everage
 
-REQ-ID:015
-Description:The product shall send confirmation of cancellation with a reference number 
-Type: Functional
-Rationale:to be able to give the customers a proof of his/her transaction for future references
-Originator: Edna Everage
-
 REQ-ID: 017
 Description:The system shall update records to show previous ownership has been revoked.
 Type:Functional
 Rationale: To make sure previous owner is unable to claim ownership of revoked tickets.
 Originator: Edna Everage
-
-REQ-ID: 022
-Description: The product shall provide the customer with confirmation that the refund transaction was successful.
-Type: Functional
-Rationale: The customer needs feedback, for peace if mind, that their refund transaction was successful. 
-Originator: Anthony Albertyn
-
-REQ-ID:023
-Description: The product shall check that the customer returning ticket(s) was the original purchaser.
-Type: Functional.
-Rationale: To ensure it is the same customer returning tickets.
-Originator: Leslie Patterson
-
-REQ-ID:024
-Description: The product shall allow the customer to enter a reason for ticket return(s).
-Type: Functional.
-Rationale: To understand reasons for ticket returns to detect emerging patterns/fraud.
-Originator: Edna Everage
-
-REQ-ID:027
-Description: The customer shall only return tickets he originally has bought
-Type: Functional
-Rationale: The fee paid by the customer can only be reversed to the credit card originally used to prevent fraud. 
-Originator:  Barry McKenzie
 
 REQ-ID:028
 Description: The customer can also return partly tickets. For example a customer has bought 5 tickets of one event and should be able to return any quantity. 
