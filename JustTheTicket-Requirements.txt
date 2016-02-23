@@ -47,11 +47,11 @@ Type: Function, business requirement
 Rationale: Unallocated tickets need to be reallocated on a daily basis.
 Orginator: Edna Everage
 
-REQ-ID:015
-Description:The product shall send confirmation of cancellation with a reference number 
+REQ-ID: 010
+Description: The system shall notify the user that the tickets have been revoked and a refund made.
 Type: Functional
-Rationale:to be able to give the customers a proof of his/her transaction for future references
-Originator: Edna Everage
+Rationale: The user must be assured of the successful revoking of the tickets and the refund made.
+Originator: Barry McKenzie - Lead business analyst
 
 REQ-ID:016
 Description:The product shall display terms & conditions and cancellation policy
