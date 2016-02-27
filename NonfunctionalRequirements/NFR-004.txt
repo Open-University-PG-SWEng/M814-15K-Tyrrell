@@ -1,4 +1,4 @@
-REQ-ID:
+REQ-ID: NFR-004
 Description: The interface shall be available in a number of languages. 
 If the language is available, the interface shall use either the language from where the user's IP is situated, or the language the user recorded in his/her preferences, or English (default).
 Type: Usability and Humanity, Internationalization (11).
