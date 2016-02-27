@@ -1,0 +1,8 @@
+REQ-ID: NFR-003
+Description: The product shall reveal private information only in compliance with Australian Data Protection and Privacy laws. 
+Type: Non-functional (Security).
+Rationale: To avoid civil and criminal liability for disclosing information to the incorrect person.
+Fit Criterion: The legal department shall ensure that the product complies with the Federal Privacy Act 1988.
+Originator: Australian organising committee legal department.
+Comments: NFR-003 relates to Requirement 031
+
