@@ -1,0 +1,8 @@
+REQ-ID:
+Description: The interface shall be available in a number of languages. 
+If the language is available, the interface shall use either the language from where the user's IP is situated, or the language the user recorded in his/her preferences, or English (default).
+Type: Usability and Humanity, Internationalization (11).
+Rationale: The product is intended for an international market. 
+Fit Criterion: Given 100 simulated IP adresses, the system shall set the interface to the correct locale, unless it's overriden in the test user's preferences..
+Originator: Alvaro Ortiz
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
