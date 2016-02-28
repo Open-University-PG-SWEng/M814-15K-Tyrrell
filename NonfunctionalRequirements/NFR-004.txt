@@ -5,4 +5,4 @@ Type: Usability and Humanity, Internationalization (11).
 Rationale: The product is intended for an international market. 
 Fit Criterion: Given 100 simulated IP adresses, the system shall set the interface to the correct locale, unless it's overriden in the test user's preferences..
 Originator: Alvaro Ortiz
-Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+Comments: [Alvaro Ortiz] Relates to REQ-07.
