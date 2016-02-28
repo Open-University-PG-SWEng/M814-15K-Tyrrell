@@ -5,3 +5,4 @@ Rationale: User experience should not be affected by a process whose outcome doe
 Fit Criterion: The recording of purchase events will have zero impact on the flow or processing time of the GUI.
 Originator: Ziga Vurkeljc
 Comments: [Ziga Vurkeljc] NFR-002 is associated with functional requirement REQ-ID 006.
+[Alvaro Ortiz] Seems like a good requirement to me, but I'm not sure how I would design a test to measure the flow. How is flow different from processing time?
