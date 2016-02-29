@@ -5,5 +5,5 @@ Rationale: The product performance must not degrade during busy times to avoid f
 Fit Criterion: The product shall support at least 10,000 concurrent users, although support for 15,000 concurrent users is preferred.
 Originator: Anthony Albertyn
 Comments: [Anthony Albertyn] NFR-001 is associated with functional requirement REQ-ID 010.
-[Alvaro Ortiz] 10,000 or 15,000 concurrent users? Please make a choice.
+[Alvaro Ortiz] 10,000 or 15,000 concurrent users? Perhaps 95% performance with 10k users, 80% performance with 15k users? 
 
