@@ -2,7 +2,8 @@ REQ-ID: NFR-002
 Description: The system shall not impact user experience in order to record purchase events.
 Type: Performance (12)
 Rationale: User experience should not be affected by a process whose outcome does not affect the user. If it can be made parallel or asynchronous, it should.
-Fit Criterion: The recording of purchase events will have zero impact on the flow or processing time of the GUI.
+Fit Criterion: The recording of purchase events will add zero delay to the user experience.
 Originator: Ziga Vurkeljc
 Comments: [Ziga Vurkeljc] NFR-002 is associated with functional requirement REQ-ID 006.
 [Alvaro Ortiz] Seems like a good requirement to me, but I'm not sure how I would design a test to measure the flow. How is flow different from processing time?
+[ZV] Modified the Fit criterion, to be clearer. I hope.
