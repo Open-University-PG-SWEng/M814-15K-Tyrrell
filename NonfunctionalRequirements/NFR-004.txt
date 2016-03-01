@@ -6,3 +6,4 @@ Rationale: The product is intended for an international market.
 Fit Criterion: Given 100 simulated IP adresses, the system shall resolve the IP's geographic location and set the interface to the correct language, or English if no translation is available, unless the language is overriden in the test user's preferences.
 Originator: Alvaro Ortiz
 Comments: [Alvaro Ortiz] Relates to REQ-07.
+[ZV] Actually ip resolve is a bad practice for setting language. The software should respect the users preferences set in the browser. e.g. An englishman can visit thailand, doesen't mean he wants his interface in thai.
