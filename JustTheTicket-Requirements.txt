@@ -1,4 +1,15 @@
+<<<<<<< HEAD
 ﻿REQ-ID: 006
+=======
+REQ-ID:
+Description:
+Type:
+Rationale:
+Originator:
+Comments: [M814-ModuleChair] Copy this template below to add new requirements.
+
+REQ-ID: 006
+>>>>>>> origin/master
 Description: The system shall record every transaction a given customer makes.
 Type: Functional
 Rationale: A full purchase/refund history is necessary in order to facilitate customer management and future purchase suggestions.
