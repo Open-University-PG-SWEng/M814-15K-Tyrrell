@@ -1,4 +1,4 @@
-REQ-ID:NFR-005
+REQ-ID:NFR-006
 Description:The system will recognize when any Sales Ticket is returned by the customer and will temporarily enable an alternative manual process to intervene.
 Type:Non-Functional (Operational)
 Rationale:The system will allow within a defined period of time a certified user, the manual reallocation of any returned sales ticket.
@@ -6,4 +6,4 @@ Fit Criterion:100% of all returned sales tickets within the JTT system can be id
 Originator:Steven Lewis
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 [SL] This NFR relates to REQ-ID:013
-
+[SL] Amended the NFR-ID number.
