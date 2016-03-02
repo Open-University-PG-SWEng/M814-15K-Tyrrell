@@ -7,3 +7,4 @@ Originator: Ziga Vurkeljc
 Comments: [Ziga Vurkeljc] NFR-002 is associated with functional requirement REQ-ID 006.
 [Alvaro Ortiz] Seems like a good requirement to me, but I'm not sure how I would design a test to measure the flow. How is flow different from processing time?
 [ZV] Modified the Fit criterion, to be clearer. I hope.
+[SL] I think its best to be a little more precise with the measure Ziga. May I suggest something like the performance will not fall below 90% of target levels during the recording of events. 
