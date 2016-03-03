@@ -6,5 +6,5 @@ Fit Criterion: The product/system shall be able to display the list in less than
 Originator: Frederic Hesse
 Comments: [Frederic Hesse] NFR-005 is associated with functional requirement REQ-ID 011.
 [ZV] Shouldn't this req. be a more general performance req? "The product/system shall display all data lists very quickly."
-
+[Anthony Albertyn] This has the same intent as NFR-001 although NFR-005 is more narrowly focused. Also, 1 second (even if the list was cached) seems amazingly fast.
 
