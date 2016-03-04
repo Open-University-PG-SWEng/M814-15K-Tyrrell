@@ -1,0 +1,8 @@
+REQ-ID: NFR-008
+Description: The user shall be required to provide a strong password when creating an account (or changing the password for an existing account) for Just The Ticket
+Type: Security Requirement
+Rationale: To ensure passwords aren't easily guessable to reduce the likelihood of an account being accessed by an unauthorized user
+Fit Criterion: The system will not accept passwords that do not have at least 8 characters, including 1 number and 1 letter
+Originator:
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+

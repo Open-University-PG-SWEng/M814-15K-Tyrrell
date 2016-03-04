@@ -6,5 +6,5 @@ Fit Criterion: The content of the message is encrypted (i.e. not send as plain t
 Originator: Kathrin Wuensch
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 [Kathrin Wuensch] related to requirement REQ-ID: 012
-
+[Andrew Stevens] Could/should this be extended to be a more general requirement of "any information transmitted between JustTheTicket and the third party payment provider shall be adequately secured", covering the initial purchase as well? (I've assumed the transaction in question here is taking place between JTT and the payment provider, though data transfer will also take place between JTT and the customer - I'd consider splitting into two requirements as depending on the nature of the payment provider, it might not be HTTPS that's used, so there would be diferent fit criteria).
 
