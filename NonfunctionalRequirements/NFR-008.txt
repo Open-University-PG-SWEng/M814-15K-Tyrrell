@@ -5,4 +5,5 @@ Rationale: To ensure passwords aren't easily guessable to reduce the likelihood 
 Fit Criterion: The system will not accept passwords that do not have at least 8 characters, including 1 number and 1 letter
 Originator:
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+[ZV] Rather than enforce a minimum length and content, I would recommend using a password strength checker (a little bar that fills up as you type your password), and thus encourage users to enter a stronger password. Given the algorythm used, you could then require a password strength of X as a minimum. This is not necessarily connected with having a mixture of characters in your password, it could just be long.
 

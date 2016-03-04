@@ -8,3 +8,4 @@ Comments: [Ziga Vurkeljc] NFR-002 is associated with functional requirement REQ-
 [Alvaro Ortiz] Seems like a good requirement to me, but I'm not sure how I would design a test to measure the flow. How is flow different from processing time?
 [ZV] Modified the Fit criterion, to be clearer. I hope.
 [SL] I think its best to be a little more precise with the measure Ziga. May I suggest something like the performance will not fall below 90% of target levels during the recording of events. 
+[ZV] Well, in terms of precision I denoted zero. As in it will NEVER impact, not in 90% of cases or 99%, never. Granted that may be a bit too restrictive, but it certainly isn't imprecise.
