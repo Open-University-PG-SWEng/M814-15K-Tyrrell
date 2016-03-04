@@ -5,4 +5,4 @@ Rationale: To avoid civil and criminal liability for disclosing information to t
 Fit Criterion: The legal department shall ensure that the product complies with the Federal Privacy Act 1988.
 Originator: Australian organising committee legal department.
 Comments: NFR-003 relates to Requirement 031
-
+[Andrew Stevens] Given MoreTheTicket's planned expansion, should this be extended to include other countries?
