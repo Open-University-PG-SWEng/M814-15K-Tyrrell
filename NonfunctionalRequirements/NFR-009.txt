@@ -1,11 +1,11 @@
 REQ-ID:NFR-009
-Description:
-Type:
-Rationale:
-Fit Criterion:
-Originator:
+Description: The produce shall be able to handle requests for tickets of the order of many tens of thousand requests per hour
+Type: Non-functional (Performance)
+Rationale: This is derived directly from the project customer.
+Fit Criterion: The product shall support at least 20000 ticket requests per hour, although support for 100000 ticket requests per hour is preferred.
+Originator: Leslie Patterson
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
-
+[Rob McKay] This is a requirement directly from the customer.
 
 
 
