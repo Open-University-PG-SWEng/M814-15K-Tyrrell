@@ -1,0 +1,10 @@
+REQ-ID:NFR-005
+Description: The product/system shall display all valid tickets for upcoming events from the identified customer very fast
+Type: Performance Requirements
+Rationale: The customer needs to be able to do his intended transaction without any interruption. Additionally, the performance of a product/system is essential for the user/customer experience and therefore needs to be satisfied. 
+Fit Criterion: The product/system shall be able to display the list in less than 1 second in more than 90% of the requests while 10,000 concurrent users are in the product/system.
+Originator: Frederic Hesse
+Comments: [Frederic Hesse] NFR-005 is associated with functional requirement REQ-ID 011.
+[ZV] Shouldn't this req. be a more general performance req? "The product/system shall display all data lists very quickly."
+[Anthony Albertyn] This has the same intent as NFR-001 although NFR-005 is more narrowly focused. Also, 1 second (even if the list was cached) seems amazingly fast.
+
