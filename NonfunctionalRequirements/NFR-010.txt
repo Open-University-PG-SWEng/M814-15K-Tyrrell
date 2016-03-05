@@ -1,0 +1,8 @@
+﻿REQ-ID:NFR-010
+Description: Terms and Conditions shall be written in many languages not only English
+Type: Non-Functional (Cultural and Political)
+Rationale: It is expected that the tickets will be requested worldwide.
+Fit Criterion: The JustTheTicket quality assurance team will check that translations have been done by language professionals who are experts in the field and it conforms to regular verification and inspection procedures. 
+Originator: Edna Everage
+Comments: [Claudia Sayago] NFR-010 is associated with Functional REQ-ID 016
+
