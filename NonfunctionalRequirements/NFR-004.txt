@@ -1,4 +1,4 @@
-REQ-ID: NFR-004
+﻿REQ-ID: NFR-004
 Description: The interface shall be available in a number of languages. 
 If the language is available, the interface shall use either the language the user set in his/her browser preferences, or English (default).
 Type: Usability and Humanity, Internationalization (11).
@@ -8,3 +8,4 @@ Originator: Alvaro Ortiz
 Comments: [Alvaro Ortiz] Relates to REQ-07.
 [ZV] Actually ip resolve is a bad practice for setting language. The software should respect the users preferences set in the browser. e.g. An englishman can visit thailand, doesen't mean he wants his interface in thai.
 [AO] Good point ZV. I changed the requirement accordingly.
+[CS] The part where says ‘given 100 simulated calls to the UI’ shouldn’t be clarified?
