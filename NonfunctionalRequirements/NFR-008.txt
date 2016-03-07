@@ -1,4 +1,4 @@
-REQ-ID: NFR-008
+﻿REQ-ID: NFR-008
 Description: The user shall be required to provide a strong password when creating an account (or changing the password for an existing account) for Just The Ticket
 Type: Security Requirement
 Rationale: To ensure passwords aren't easily guessable to reduce the likelihood of an account being accessed by an unauthorized user
@@ -7,4 +7,4 @@ Originator:
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 [ZV] Rather than enforce a minimum length and content, I would recommend using a password strength checker (a little bar that fills up as you type your password), and thus encourage users to enter a stronger password. Given the algorythm used, you could then require a password strength of X as a minimum. This is not necessarily connected with having a mixture of characters in your password, it could just be long.
 [SL] I agree with the comment above from Ziga as this reinforces the breadth of the non-technical end user profile and encourages ‘ease of use’ and adds value to the other NFRs that are seeking to improve this area.
-
+[Roman Töngi] REQ-008 to which this NFR is related does not imply any technological solution (it just states the user shall authenticate). In my opinion, it's inappropriate to introduce technological detail with this NFR.
