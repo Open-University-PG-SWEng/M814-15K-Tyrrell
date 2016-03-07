@@ -1,0 +1,7 @@
+REQ-ID: NFR-011
+Description: The check that the ticket to be returned belongs to the authenticated user shall be efficient.
+Type: Speed and Latency Requirement
+Rationale: Performing the check shall not impose an unnecessary burden on the ordinary execution of the system.
+Fit Criterion: The check must not take longer than 0.5 second in 90 percent of the time with a maximum duration of 1 second.
+Originator: Barry McKenzie - Lead business analyst
+Comments: [Roman Töngi] This non-functional requirement is associated with functional requirement REQ-009.
