@@ -1,4 +1,4 @@
-REQ-ID:
+﻿REQ-ID:
 Description:
 Type:
 Rationale:
@@ -69,4 +69,10 @@ REQ-ID:032
 Description: The customer shall be able to navigate easily to 'buy tickets' after the notification of successful returned tickets was shown (REQ10)
 Type: Functional
 Rationale: The user has shown general interest in the events, but was not able to use the tickets. It should be easy to buy replacement-tickets.
+Originator: Barry McKenzie
+
+REQ-ID:033
+Description: The system should allow the customer the ability to cancel the return of tickets if these are not yet reallocated. 
+Type: Functional
+Rationale: The user has change its mind regarding the number of tickets to return and the system didn't reallocate them yet to other users. This would reduce the overall number or required reallocations.
 Originator: Barry McKenzie
