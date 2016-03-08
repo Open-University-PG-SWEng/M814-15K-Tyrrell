@@ -1,0 +1,11 @@
+REQ-ID: NFR-013
+Description: The system should display all tickets available for cancellation of the return
+Type: Performance
+Rationale: The user who returned a ticket can realise it made a mistake in returning the ticket. The system should allow him to return any ticket still not reallocated. 
+Fit Criterion: On a page all the available tickets are visible. The cancelation process shoudn't take more than 5 minutes.
+Originator: Barry McKenzie
+Comments: [Manuel Galiu] This non-functional requirement is associated with functional requirement REQ-033
+
+
+
+
