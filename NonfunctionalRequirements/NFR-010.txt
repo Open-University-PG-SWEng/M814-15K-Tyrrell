@@ -6,3 +6,4 @@ Fit Criterion: The JustTheTicket quality assurance team will check that translat
 Originator: Edna Everage
 Comments: [Claudia Sayago] NFR-010 is associated with Functional REQ-ID 016
 [Roman Töngi] Shouldn't there be a general requirement for multilingualism so that it needn't be repeated for various requirements?
+Comments: [Peter Rogerson] Perhaps the fit criterion should reference specific accreditation to qualify as an expert and name the verification and inspection procedures to be used by JustTheTicket.
