@@ -7,7 +7,7 @@ Originator: Barry McKenzie
 Comments: [Manuel Galiu] This non-functional requirement is associated with functional requirement REQ-033
 [Frederic Hesse] From my understanding this sounds like a functional requirement similar to REQ-011 and NFR-005. Additionaly, in performance requirements there should be something like ranges, e.g. in 95% of the cancelations it should not take longer than 5 minutes. This avoid gold plating.
 [Kathrin Wuensch] I agree wit the comment from Frederic. This is not a non-functional, but a functional requirement. 
-
+[Anthony Albertyn] The description and rational describes a functional requirement, not a non-functional requirement, and the fit criteria quantification does not measure the success if this requirement. To me the fit criteria describes a non-functional usability requirement. ie the description and fit criteria do not relate to each other. Suggestion is to remove this from the non-functional requirements list. If the description was "A user should find it easy to cancel a ticket" then a fit criteria could be: 90-95% of a panel representative of a member of the public should on first attempt be able to cancel two to three tickets within 5 minutes.
 
 
 
