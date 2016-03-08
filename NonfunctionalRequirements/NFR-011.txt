@@ -5,3 +5,4 @@ Rationale: Performing the check shall not impose an unnecessary burden on the or
 Fit Criterion: The check must not take longer than 0.5 second in 90 percent of the time with a maximum duration of 1 second.
 Originator: Barry McKenzie - Lead business analyst
 Comments: [Roman Töngi] This non-functional requirement is associated with functional requirement REQ-009.
+[Ansgar Goeb] I think the fit criterion is quite good. I was wondering if not something should be said about the load of the system. Usually it’s easy to fulfil performance goals when the system is idle. I was thinking on something like ‘while at least 10.000 users are connected to the system buying tickets’.
