@@ -57,3 +57,10 @@ Description: The customer can also return partly tickets. For example a customer
 Type: Functional
 Rationale: The returned ticket Use Case is introduced to prevent fraud. In case a group wanted to join an event but one participant is sick the ticket should be returned. This would reduce the sale of ticket at the games and would prevent unwanted high ticket prices.
 Originator: Barry McKenzie
+
+REQ-ID: 034
+Description: The system shall identify tickets returned for events that are fully booked
+Type: Functional
+Rationale: For the mainstream service these returns will require particular attention with regard to reallocation
+Originator: Barry McKenzie
+
