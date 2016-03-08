@@ -10,3 +10,4 @@ Comments: [Alvaro Ortiz] Relates to REQ-07.
 [ZV] Actually ip resolve is a bad practice for setting language. The software should respect the users preferences set in the browser. e.g. An englishman can visit thailand, doesen't mean he wants his interface in thai.
 [AO] Good point ZV. I changed the requirement accordingly.
 [CS] The part where says ‘given 100 simulated calls to the UI’ shouldn’t be clarified?
+[AO] I updated the fit criterion to reflect the group discussion on 8 March 2016.
