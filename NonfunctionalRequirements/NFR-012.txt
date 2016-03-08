@@ -1,0 +1,11 @@
+REQ-ID: NFR-012
+Description: The page for buying tickets must open quickly.
+Type: Performance
+Rationale: The user who returned a ticket is a potential buyer of another ticket. The page where he/she can buy a new ticket must be shown very quickly, otherwise the user will leave JustTheTicket and the revenue may be lost. 
+Fit Criterion: Opening the page for buying new tickets may not take longer than 2 seconds. 
+Originator: Barry McKenzie
+Comments: [Ansgar Goeb] This non-functional requirement is associated with functional requirement REQ-032
+
+
+
+
