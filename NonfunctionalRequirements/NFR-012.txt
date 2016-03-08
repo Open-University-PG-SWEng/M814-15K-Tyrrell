@@ -5,6 +5,7 @@ Rationale: The user who returned a ticket is a potential buyer of another ticket
 Fit Criterion: Opening the page for buying new tickets may not take longer than 2 seconds. 
 Originator: Barry McKenzie
 Comments: [Ansgar Goeb] This non-functional requirement is associated with functional requirement REQ-032
+[Kathrin Wuensch] This performance requirement is similar to NRF-005 (display a list of upcoming events quickly). The fit criteria should also include a measurement to address the demand on the system (such as: while there are 10 000 concurrent users as , for instance stated in NFR-001) to allow a realistic measurment. Furthermore, allowing some range can make the requirement more flexible for any constraints, such as budget constraints.
 
 
 

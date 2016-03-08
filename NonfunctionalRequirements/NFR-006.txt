@@ -6,6 +6,6 @@ Fit Criterion:100% of all returned sales tickets within the JTT system will be i
 Originator:Steven Lewis
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 [SL] This NFR relates to REQ-ID:013
-
+[Kathrin Wuensch:] I am not sure if this equirement is a non-functional requirement as it does not describe how well the system is doing the related functional requirement (that is, REQ-013), but it does describe a new functionality of the system. 
 
 
