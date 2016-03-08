@@ -5,6 +5,7 @@ Rationale: The user who returned a ticket can realise it made a mistake in retur
 Fit Criterion: On a page all the available tickets are visible. The cancelation process shoudn't take more than 5 minutes.
 Originator: Barry McKenzie
 Comments: [Manuel Galiu] This non-functional requirement is associated with functional requirement REQ-033
+[Frederic Hesse] From my understanding this sounds like a functional requirement similar to REQ-011 and NFR-005. Additionaly, in performance requirements there should be something like ranges, e.g. in 95% of the cancelations it should not take longer than 5 minutes. This avoid gold plating. 
 
 
 
