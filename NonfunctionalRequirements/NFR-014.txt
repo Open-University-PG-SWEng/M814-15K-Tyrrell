@@ -5,4 +5,7 @@ Rationale: Do not want customers switching to selling part ticket returns on bla
 Fit Criterion:  On first attempt > 95% of customers returning part ticket returns will succeed in less than 5 mins.
 Originator: Stephen Hynes
 Comments: [Stephen Hynes] NFR-014 <- association -> REQ-ID:028.
+Comments: [Peter Rogerson] The fit criterion doesn't reflect the need to be "as intuitive" as returning a full set of tickets. It may also conflict with any requirements relating to returning a full set of tickets, or at least it will determine the length of time for that activity. Would a fit criterion such as "the average time taken to return a set subset of tickets should not take more that 5% longer than the average time to return a full set" be less restrictive and be more reflective of a comparison?
+
+ 
 
