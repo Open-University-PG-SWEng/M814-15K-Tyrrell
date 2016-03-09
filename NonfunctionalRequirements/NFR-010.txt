@@ -7,3 +7,5 @@ Originator: Edna Everage
 Comments: [Claudia Sayago] NFR-010 is associated with Functional REQ-ID 016
 [Roman Töngi] Shouldn't there be a general requirement for multilingualism so that it needn't be repeated for various requirements?
 Comments: [Peter Rogerson] Perhaps the fit criterion should reference specific accreditation to qualify as an expert and name the verification and inspection procedures to be used by JustTheTicket.
+[CS]I I think that we don’t have to take for granted that developers will take into account a generalisation regarding languages and therefore they will include T&C in different languages. From my point of view it is necessary to let the developers know that they must do it. 
+[CS] maybe the fit criterion should specify the frequency of verification and inspection procedures. Regarding the language professional, they must understand the legal implication of the accuracy of the translation.
