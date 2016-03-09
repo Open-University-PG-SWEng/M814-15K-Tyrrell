@@ -9,5 +9,6 @@ Comments: [Manuel Galiu] This non-functional requirement is associated with func
 [Kathrin Wuensch] I agree wit the comment from Frederic. This is not a non-functional, but a functional requirement. 
 [Anthony Albertyn] The description and rational describes a functional requirement, not a non-functional requirement, and the fit criteria quantification does not measure the success if this requirement. To me the fit criteria describes a non-functional usability requirement. ie the description and fit criteria do not relate to each other. Suggestion is to remove this from the non-functional requirements list. If the description was "A user should find it easy to cancel a ticket" then a fit criteria could be: 90-95% of a panel representative of a member of the public should on first attempt be able to cancel two to three tickets within 5 minutes.
 [Manuel Galiu]Changed the requirement based on the tutorial inputs.
+[M814 group] Original requirement described a functional requirement, not a NFR - needs rework.
 
 
