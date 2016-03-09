@@ -1,4 +1,4 @@
-﻿REQ-ID:
+REQ-ID:
 Description:
 Type:
 Rationale:
@@ -76,3 +76,10 @@ Description: The system should allow the customer the ability to cancel the retu
 Type: Functional
 Rationale: The user has change its mind regarding the number of tickets to return and the system didn't reallocate them yet to other users. This would reduce the overall number or required reallocations.
 Originator: Barry McKenzie
+
+REQ-ID: 034
+Description: The system shall identify tickets returned for events that are fully booked
+Type: Functional
+Rationale: For the mainstream service these returns will require particular attention with regard to reallocation
+Originator: Barry McKenzie
+
