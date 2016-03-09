@@ -1,0 +1,8 @@
+REQ-ID: NFR-014
+Description: Returning a sub set of purchased tickets will be as intuitive as returning a full set of tickets.   
+Type: 11. Usability and Humanity Requirements
+Rationale: Do not want customers switching to selling part ticket returns on black market because it is an easier option than using the product.     
+Fit Criterion:  On first attempt > 95% of customers returning part ticket returns will succeed in less than 5 mins.
+Originator: Stephen Hynes
+Comments: [Stephen Hynes] NFR-014 <- association -> REQ-ID:028.
+
