@@ -1,0 +1,8 @@
+REQ-ID: NFR-034
+Description: Tickets returned for full events shall not be made available for general sale
+Type: security
+Rationale: When a ticket for a full event is returned there must be no way that a new purchase can be made against that ticket
+Fit Criterion: 100% of tickets identified as belonging to 'full' events shall be transfered to the ticket re-allocation list and not the available for sale list
+Originator: Geoff Riley
+Comments: [GR] Non-function requirement based on functional requirement REQ-ID: 034
+
