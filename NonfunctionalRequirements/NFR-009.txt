@@ -8,5 +8,5 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
 [Rob McKay] This is a requirement directly from the customer.
 [CS] Is there any difference between this requirement and NFR-001? To me both of them look the same.
 [Ansgar Goeb] Is it a new requirement (couldn't find the original req)? I think it’s absolutely worth to have an extra requirement for requesting tickets. But I think ‘request a ticket’ should be defined. Is it a request to the available tickets? Or is it the ‘buying of a ticket’? I think especially the latter is worth to define as an extra requirement because an adjacent systems (credit card) is used. This could be the source of a performance problem.
-
+[Stephen Hynes] Is the Fit Criterion viable within constraints?  Leslie Patterson 'trusts' that JTT will be able to handle requests for tickets of the order of many tens of thousands per hour.  Maybe JTT can - but what if as mentioned above the adjacent credit card system, interface cannot handle this throughput?  Fit criterion may need to mitigate against external constraints.
 
