@@ -1,11 +1,13 @@
 ﻿REQ-ID: NRF-007
-Description: The system shall send the refund information securely.  
+Description: The system shall send any information between the system and the external payment system securely.  
 Type: Security requirement
-Rationale: Ensure that the customer’s personal details associated with the refund are not compromised during transmission. 
-Fit Criterion: The content of the message is encrypted (i.e. not send as plain text) and transmitted over secure connection complying with the https protocol. 
+Rationale: Ensure that the customer’s personal details associated with the any payment transactions are not compromised during transmission. 
+Fit Criterion: The content of the message is encrypted (i.e. not send as plain text) and transmitted over secure communication protocol. 
 Originator: Kathrin Wuensch
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 [Kathrin Wuensch] related to requirement REQ-ID: 012
 [Andrew Stevens] Could/should this be extended to be a more general requirement of "any information transmitted between JustTheTicket and the third party payment provider shall be adequately secured", covering the initial purchase as well? (I've assumed the transaction in question here is taking place between JTT and the payment provider, though data transfer will also take place between JTT and the customer - I'd consider splitting into two requirements as depending on the nature of the payment provider, it might not be HTTPS that's used, so there would be diferent fit criteria).
 [Frederic Hesse] This sounds like a good NFR that is testable. But as Andrew stated this could be valid for all communication between external systems.
 [Stephen Hynes] REQ-ID 012 states refund information 'to the credit card company'.  A fit criterion stating a technology (https) is too solution bound.  A security policy/standard may be likley measure due payment system being adjacent system with potential for contractural implications (cross over with NFR type 17, Legal).
+[M814 group] General accepted, but scope of requirement can be wider and fit criterion should not impose any technology. 
+[Kathrin Wuensch] Updated the requirement following your comments. 
