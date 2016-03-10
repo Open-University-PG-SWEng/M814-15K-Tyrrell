@@ -2,12 +2,13 @@ REQ-ID: NFR-012
 Description: The page for buying tickets must open quickly.
 Type: Performance
 Rationale: The user who returned a ticket is a potential buyer of another ticket. The page where he/she can buy a new ticket must be shown very quickly, otherwise the user will leave JustTheTicket and the revenue may be lost. 
-Fit Criterion: Opening the page for buying new tickets may not take longer than 2 seconds. 
+Fit Criterion: Opening the page for buying new tickets from the acknowledge page for returend tickets shall take in 95 %  only 1 second while between 5,000 and 10,000 concurrent users buying tickets. In case there are between 10,000 and 20,000 concurrent users buying tickets, it shall take in 95 % of the tests 2 seconds. In any other case it shall never take more than 3 seconds. 
 Originator: Barry McKenzie
 Comments: [Ansgar Goeb] This non-functional requirement is associated with functional requirement REQ-032
 [Kathrin Wuensch] This performance requirement is similar to NRF-005 (display a list of upcoming events quickly). The fit criteria should also include a measurement to address the demand on the system (such as: while there are 10 000 concurrent users as , for instance stated in NFR-001) to allow a realistic measurment. Furthermore, allowing some range can make the requirement more flexible for any constraints, such as budget constraints.
 [Anthony Albertyn] Fit criteria can be improved by rewording it to: When there are between 5,000 and 10,000 concurrent users, the page load time for the 'buy new tickets page' on a desktop pc, should be between 2 and 4 seconds for 95% of the time.
 [M814 group] Fit criterion needs rework.
+[Ansgar Goeb]fit criterion adjusted
 
 
 
