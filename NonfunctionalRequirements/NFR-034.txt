@@ -5,4 +5,5 @@ Rationale: When a ticket for a full event is returned there must be no way that 
 Fit Criterion: 100% of tickets identified as belonging to 'full' events shall be transfered to the ticket re-allocation list and not the available for sale list
 Originator: Geoff Riley
 Comments: [GR] Non-function requirement based on functional requirement REQ-ID: 034
-
+[Frederic Hesse] That tickets are stored in a different list is from my perspective a functional requirement. I don't see the security part of this requirement.
+A possible security requirement could be: It has to be ensured that the identification characteristics of the returned tickets (like barcode, QR-code,...) are made invalid and can't be reused.
