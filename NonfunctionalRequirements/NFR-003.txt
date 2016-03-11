@@ -2,8 +2,9 @@ REQ-ID: NFR-003
 Description: The product shall reveal private information only in compliance with Australian Data Protection and Privacy laws. 
 Type: Non-functional (Security).
 Rationale: To avoid civil and criminal liability for disclosing information to the incorrect person.
-Fit Criterion: The legal department shall ensure that the product complies with the Federal Privacy Act 1988.
+Fit Criterion: The legal department shall approve product compliance with the Federal Privacy Act 1988, with specific consideration of App 8 as it relates to cross-border data transfer.
 Originator: Australian organising committee legal department.
 Comments: NFR-003 relates to Requirement 031
 [Andrew Stevens] Given MoreTheTicket's planned expansion, should this be extended to include other countries?
 [GR] Is the product being deployed on hardware hosted in Australia? If not, then wherever the data is hosted must have privacy at least as good as that being sought.
+[Peter Rogerson] I have updated the fit criterion to reflect the international nature of the environment of current and future systems. I have also specified that the legal department must "approve" the compliance in accordance with suggested naming conventions and to ensure a pass/fail test.
