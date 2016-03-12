@@ -7,3 +7,4 @@ Originator: Geoff Riley
 Comments: [GR] Non-function requirement based on functional requirement REQ-ID: 034
 [Frederic Hesse] That tickets are stored in a different list is from my perspective a functional requirement. I don't see the security part of this requirement.
 A possible security requirement could be: It has to be ensured that the identification characteristics of the returned tickets (like barcode, QR-code,...) are made invalid and can't be reused.
+[Stephen Hynes] The fit criterion does not make clear to me the security 'aspect' (MRP, p.262) or the 'kind' of security requirement (Firesmith, 2003) that is being quantified/measured?  This will aid design of acceptance tests.
