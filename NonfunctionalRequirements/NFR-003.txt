@@ -8,3 +8,4 @@ Comments: [Peter Rogerson] NFR-003 relates to Requirement 031
 [Andrew Stevens] Given MoreTheTicket's planned expansion, should this be extended to include other countries?
 [GR] Is the product being deployed on hardware hosted in Australia? If not, then wherever the data is hosted must have privacy at least as good as that being sought.
 [Peter Rogerson] I have updated the fit criterion to reflect the international nature of the environment of current and future systems. I have also specified that the legal department must "approve" the compliance in accordance with suggested naming conventions and to ensure a pass/fail test.
+[Rob McKay] How are the legal dept going to check compliance?

@@ -1,7 +1,7 @@
-﻿REQ-ID:NFR-009
-Description: The product shall be able to handle requests for tickets of the order of many tens of thousand requests per hour
+REQ-ID:NFR-009
+Description: The product shall be able to handle requests for tickets of the order of many tens of thousand requests per hour.
 Type: Non-functional (Performance)
-Rationale: This is derived directly from the project customer.
+Rationale: The customer expects the system to handle a large number of requests per hour.
 Fit Criterion: The product shall support at least 20000 ticket requests per hour, although support for 100000 ticket requests per hour is preferred.
 Originator: Leslie Patterson
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
@@ -9,4 +9,4 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
 [CS] Is there any difference between this requirement and NFR-001? To me both of them look the same.
 [Ansgar Goeb] Is it a new requirement (couldn't find the original req)? I think it’s absolutely worth to have an extra requirement for requesting tickets. But I think ‘request a ticket’ should be defined. Is it a request to the available tickets? Or is it the ‘buying of a ticket’? I think especially the latter is worth to define as an extra requirement because an adjacent systems (credit card) is used. This could be the source of a performance problem.
 [Stephen Hynes] Is the Fit Criterion viable within constraints?  Leslie Patterson 'trusts' that JTT will be able to handle requests for tickets of the order of many tens of thousands per hour.  Maybe JTT can - but what if as mentioned above the adjacent credit card system, interface cannot handle this throughput?  Fit criterion may need to mitigate against external constraints.
-
+[Rob McKay] This is a hign level requirement and it places a similar requirement on all of the adajacent systems which are used when handling individual ticket requests.

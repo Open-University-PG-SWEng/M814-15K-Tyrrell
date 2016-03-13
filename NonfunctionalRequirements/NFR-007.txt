@@ -11,3 +11,4 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
 [Stephen Hynes] REQ-ID 012 states refund information 'to the credit card company'.  A fit criterion stating a technology (https) is too solution bound.  A security policy/standard may be likley measure due payment system being adjacent system with potential for contractural implications (cross over with NFR type 17, Legal).
 [M814 group] General accepted, but scope of requirement can be wider and fit criterion should not impose any technology. 
 [Kathrin Wuensch] Updated the requirement following your comments. 
+[Rob McKay] Reference should be made to ensure it complies with payment card industry data security standards (PCI DSS).
