@@ -1,9 +1,10 @@
 REQ-ID:NFR-006
-Description: The system will recognise when any sales ticket is returned by the customer and will monitor its duration until it has been reallocated to another customer.
+Description: The interface to the manual review and reallocation of the returned sales tickets shall comply with the operational procedures of the reallocation programme.
 Type:Non-Functional (Operational)
-Rationale:The system will allow within a defined period of time a certified user, the manual reallocation of any returned sales ticket.
-Fit Criterion:100% of all returned sales tickets within the JTT system will be identified and its associated time and date at the point-of-return will be captured.
+Rationale: The system will allow within a defined period of time a certified user, the manual review of the sales return data as defined by the reallocation programme.
+Fit Criterion: The system shall function within the constraints of the reallocation programme requirements.
 Originator:Steven Lewis Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 [SL] This NFR relates to REQ-ID:013
 [Kathrin Wuensch:] I am not sure if this equirement is a non-functional requirement as it does not describe how well the system is doing the related functional requirement (that is, REQ-013), but it does describe a new functionality of the system. 
-[Stephen Hynes]  The fit criterion reads as more an action than a measure - I need a measure to ensure my test meets or is within a measure.  As written the 'duration' could be days.  
+[Stephen Hynes]  The fit criterion reads as more an action than a measure - I need a measure to ensure my test meets or is within a measure.  As written the 'duration' could be days.
+[SL] The NFR has been amended as per the quality gateway feedback and re-presented here for review.  
