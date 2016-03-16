@@ -1,0 +1,11 @@
+REQ-ID: NFR-015
+Description: The system shall prevent customers from returning tickets for past events
+Type: Security (Auditing)
+Rationale: 
+Fit Criterion: For all ticket returns, the date of the return shall preceed the date of the ticketed event.
+Originator: Dominic Smith
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+
+
+
+

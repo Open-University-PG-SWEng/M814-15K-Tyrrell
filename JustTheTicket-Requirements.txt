@@ -83,3 +83,8 @@ Type: Functional
 Rationale: For the mainstream service these returns will require particular attention with regard to reallocation
 Originator: Barry McKenzie
 
+REQ-ID: 035
+Description: The system shall allow the customer to return any tickets they possess for future events
+Type: Functional
+Rationale: As tickets are in high demand, we should allow customers who are no longer able to attend an event to return their tickets so that other customers are have the opportunity to attend the event. 
+Originator: Edna Everage - Domestic Ticket Sales
