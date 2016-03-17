@@ -9,3 +9,4 @@ Originator:Steven Lewis Comments: [M814-ModuleChair] Add comments below, making 
 [Stephen Hynes]  The fit criterion reads as more an action than a measure - I need a measure to ensure my test meets or is within a measure.  As written the 'duration' could be days.
 [SL] The NFR has been amended as per the quality gateway feedback and re-presented here for review.  
 [Manuel Galiu] I also see this requirement as being functional, and not non-functional. Also the fit criterion should try to quantify in a testable way the requirement. Maybe it should validate the input and output number of tickets returned against the business rule defined by the reallocation programme. 
+[DS] The fit-criterion doesn't appear to be measurable. As Manuel says, it would make sense to quantify the system behaviour in terms of the number of ticket returns that fit within the programme constraints (i.e. we would expect 0 to fall outside of the constraints). 

@@ -6,3 +6,4 @@ Fit Criterion: The check must not take longer than 0.5 second in 90 percent of t
 Originator: Barry McKenzie - Lead business analyst
 Comments: [Roman Töngi] This non-functional requirement is associated with functional requirement REQ-009.
 [Ansgar Goeb] I think the fit criterion is quite good. I was wondering if not something should be said about the load of the system. Usually it’s easy to fulfil performance goals when the system is idle. I was thinking on something like ‘while at least 10.000 users are connected to the system buying tickets’.
+[DS] I think a small improvement would be to make the number of parallel checks that this performance requirement applies to; although the criterion says that the system has to handle 50,000 users per second it doesn't explicitly link this figure to the check needing to complete in under 0.5 seconds in 90% of cases. Otherwise, this is a sensible fit-criteria. 
